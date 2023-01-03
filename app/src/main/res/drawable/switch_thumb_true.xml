@@ -1,0 +1,17 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item >
+        <shape android:shape="oval">
+            <solid android:color="@color/color_primary"/>
+
+
+        </shape>
+    </item>
+
+
+    <item android:drawable="@drawable/ic_baseline_tag_faces_24"
+
+        />
+
+
+</layer-list>
